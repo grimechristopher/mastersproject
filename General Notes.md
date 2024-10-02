@@ -21,3 +21,12 @@ MSL = (Average Usage Rate × Lead Time) + Safety Stock
 While this formula is simple, determining the Average Usage Rate and Safety Stock are challenging and vary based on the industry and services provided by the company. 
 
 ---
+
+
+Keywords 
+
+Minimum Inventory
+Minimum Stock Levels
+
+Remaining Useful Life
+
